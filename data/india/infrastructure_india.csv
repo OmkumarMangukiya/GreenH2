@@ -1,0 +1,14 @@
+facility_name,facility_type,state,latitude,longitude,capacity_mw,status
+Jamnagar Port,port,Gujarat,22.4707,70.0577,600,operational
+Mumbai Port,port,Maharashtra,18.9207,72.8347,300,operational
+Chennai Port,port,Tamil Nadu,13.0827,80.2707,400,operational
+Visakhapatnam Port,port,Andhra Pradesh,17.6868,83.2185,450,operational
+Mangalore Port,port,Karnataka,12.9141,74.8143,200,operational
+Vadodara Chemical Hub,industrial_park,Gujarat,22.3072,73.1812,400,operational
+Taloja Industrial Area,industrial_park,Maharashtra,19.0833,73.1,200,operational
+Bengaluru Tech Park,industrial_park,Karnataka,12.9716,77.5946,300,operational
+Chennai Tidel Park,industrial_park,Tamil Nadu,12.9814,80.218,250,operational
+Vijayawada Industrial Park,industrial_park,Andhra Pradesh,16.5062,80.648,220,operational
+Bhuj Substation,substation,Gujarat,23.241,69.6669,500,operational
+Jaisalmer Substation,substation,Rajasthan,26.9157,70.9083,400,operational
+Dhule Substation,substation,Maharashtra,20.9042,74.7749,300,operational

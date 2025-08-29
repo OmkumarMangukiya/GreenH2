@@ -1,0 +1,13 @@
+name,state,latitude,longitude,capacity_mw,type,status,source
+Jawaharlal Nehru Port Trust (JNPT),Maharashtra,18.9492,72.9322,1500,port,operational,JNPT Official Data
+Mumbai Port Trust,Maharashtra,18.9207,72.8347,800,port,operational,MbPT Official Data
+Chennai Port Trust,Tamil Nadu,13.0827,80.2707,1200,port,operational,ChPT Official Data
+Visakhapatnam Port Trust,Andhra Pradesh,17.6868,83.2185,1000,port,operational,VPT Official Data
+Kolkata Port Trust,West Bengal,22.5726,88.3639,600,port,operational,KoPT Official Data
+Jamnagar Port,Gujarat,22.4707,70.0577,2000,port,operational,Adani Ports
+Mundra Port,Gujarat,22.8397,69.7258,1800,port,operational,Adani Ports
+Bhuj Solar Park,Gujarat,23.241,69.6669,500,solar_park,operational,MNRE
+Jaisalmer Solar Park,Rajasthan,26.9157,70.9083,400,solar_park,operational,MNRE
+Kamuthi Solar Power Project,Tamil Nadu,9.4043,78.3734,648,solar_park,operational,MNRE
+Pavagada Solar Park,Karnataka,14.1,77.2833,2050,solar_park,operational,MNRE
+Kurnool Ultra Mega Solar Park,Andhra Pradesh,15.8281,78.0373,1000,solar_park,operational,MNRE

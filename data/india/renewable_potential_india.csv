@@ -1,0 +1,13 @@
+state,site_name,latitude,longitude,solar_irradiance,wind_speed,land_suitability,grid_distance_km
+Gujarat,Bhuj Solar Park,23.241,69.6669,5.8,6.2,0.9,15.0
+Gujarat,Kutch Wind Farm,23.7337,68.8647,5.6,7.1,0.8,20.0
+Rajasthan,Jaisalmer Solar Park,26.9157,70.9083,6.2,5.8,0.9,25.0
+Rajasthan,Bikaner Wind Park,28.0229,73.3119,5.9,6.5,0.8,30.0
+Maharashtra,Dhule Solar Park,20.9042,74.7749,5.4,4.9,0.8,18.0
+Maharashtra,Solapur Wind Farm,17.6599,75.9064,5.2,5.2,0.7,22.0
+Karnataka,Tumkur Solar Park,13.3409,77.1,5.3,5.1,0.8,20.0
+Karnataka,Pavagada Solar Park,14.1,77.2833,5.5,4.8,0.9,15.0
+Tamil Nadu,Kamuthi Solar Power Project,9.4043,78.3734,5.6,4.7,0.8,12.0
+Tamil Nadu,Muppandal Wind Farm,8.2667,77.5167,5.1,6.8,0.7,8.0
+Andhra Pradesh,Anantapur Solar Park,14.6819,77.6006,5.7,4.3,0.9,18.0
+Andhra Pradesh,Kurnool Ultra Mega Solar Park,15.8281,78.0373,5.8,4.1,0.9,20.0

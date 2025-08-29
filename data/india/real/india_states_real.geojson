@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gujarat",
+        "region": "Western India",
+        "area_km2": 196244,
+        "population": 60439692,
+        "capital": "Gandhinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1924,
+          22.2587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajasthan",
+        "region": "Northern India",
+        "area_km2": 342239,
+        "population": 68548437,
+        "capital": "Jaipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2179,
+          27.0238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maharashtra",
+        "region": "Western India",
+        "area_km2": 307713,
+        "population": 112374333,
+        "capital": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7139,
+          19.7515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karnataka",
+        "region": "Southern India",
+        "area_km2": 191791,
+        "population": 61095297,
+        "capital": "Bengaluru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7139,
+          15.3173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamil Nadu",
+        "region": "Southern India",
+        "area_km2": 130058,
+        "population": 72147030,
+        "capital": "Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6569,
+          11.1271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andhra Pradesh",
+        "region": "Southern India",
+        "area_km2": 162975,
+        "population": 49577103,
+        "capital": "Amaravati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.74,
+          15.9129
+        ]
+      }
+    }
+  ]
+}

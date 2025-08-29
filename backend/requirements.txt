@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+geopandas
+rasterio
+pypsa
+snakemake
+postgis
+psycopg2-binary
+pandas
+numpy

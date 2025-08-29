@@ -1,0 +1,7 @@
+network_name,network_type,state,latitude,longitude,capacity_tonnes_year,status
+NH-48 (Golden Quadrilateral),road,Maharashtra,19.076,72.8777,5000000,operational
+NH-8 (Delhi-Mumbai),road,Rajasthan,26.9124,75.7873,3000000,operational
+NH-44 (North-South Corridor),road,Karnataka,12.9716,77.5946,4000000,operational
+Western Railway,rail,Gujarat,23.0225,72.5714,10000000,operational
+Southern Railway,rail,Tamil Nadu,13.0827,80.2707,8000000,operational
+South Central Railway,rail,Andhra Pradesh,17.6868,83.2185,9000000,operational
